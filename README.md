@@ -1,0 +1,2 @@
+# gocode
+Go work
